@@ -61,7 +61,7 @@ SOFTWARE.
   <properties>
     <java.version>17</java.version>
     <jjwt.version>0.11.5</jjwt.version>
-    <jcabi.github.version>1.3.2</jcabi.github.version>
+    <jcabi.github.version>1.9.1</jcabi.github.version>
     <atlassian.jira.rest.verion>5.2.4</atlassian.jira.rest.verion>
     <atlassian.figue.version>5.0.0</atlassian.figue.version>
     <jcabi.dynamo.version>0.22.2</jcabi.dynamo.version>
